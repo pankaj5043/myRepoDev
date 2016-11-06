@@ -1,0 +1,26 @@
+From a55919c337bca01638f178dea9bf51f7fe0b2179 Mon Sep 17 00:00:00 2001
+From: "Pankaj Sharma (E213512)" <pankaj.sharma3@evry.com>
+Date: Sun, 6 Nov 2016 18:35:24 +0530
+Subject: [PATCH 2/2] Revert "This is from master2"
+
+This reverts commit c444caf9e96e8b45e21e04373f5278a8236f67c0.
+---
+ MasterFile.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/MasterFile.txt b/MasterFile.txt
+index f5d0122..5b2c72d 100644
+--- a/MasterFile.txt
++++ b/MasterFile.txt
+@@ -2,5 +2,4 @@ This is Master file from master. Version 1.0
+ Changes from master					version 1.1
+ This is Master file from master. Version 1.0
+ Changes from master2				version 2.0
+-changes from master2_1				version 2_1.0
+-This is from Master2			Version 2.1
+\ No newline at end of file
++changes from master2_1				version 2_1.0
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+

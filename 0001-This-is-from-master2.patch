@@ -1,0 +1,25 @@
+From c444caf9e96e8b45e21e04373f5278a8236f67c0 Mon Sep 17 00:00:00 2001
+From: "Pankaj Sharma (E213512)" <pankaj.sharma3@evry.com>
+Date: Sun, 6 Nov 2016 18:33:15 +0530
+Subject: [PATCH 1/2] This is from master2
+
+---
+ MasterFile.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/MasterFile.txt b/MasterFile.txt
+index 5b2c72d..f5d0122 100644
+--- a/MasterFile.txt
++++ b/MasterFile.txt
+@@ -2,4 +2,5 @@ This is Master file from master. Version 1.0
+ Changes from master					version 1.1
+ This is Master file from master. Version 1.0
+ Changes from master2				version 2.0
+-changes from master2_1				version 2_1.0
+\ No newline at end of file
++changes from master2_1				version 2_1.0
++This is from Master2			Version 2.1
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
