@@ -1,3 +1,5 @@
 This is Master file from master. Version 1.0
+Changes from master					version 1.1
+This is Master file from master. Version 1.0
 Changes from master2				version 2.0
 changes from master2_1				version 2_1.0
